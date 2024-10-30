@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+❎ Creación de un carrito de compras interactivo utilizando React.
+❎ Los productos se obtienen dinámicamente a través de una API mediante fetching, lo que permite que el catálogo de productos esté siempre actualizado.
+❎ La aplicación permite a los usuarios agregar y eliminar productos del carrito y gestionar la cantidad de cada producto.
+❎ Se implementaron buenas prácticas en la gestión del estado y en el manejo de la interacción con la API para mejorar la eficiencia y la experiencia de usuario.
