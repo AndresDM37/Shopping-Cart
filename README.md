@@ -5,3 +5,5 @@
 ❎ La aplicación permite a los usuarios agregar y eliminar productos del carrito y gestionar la cantidad de cada producto.
 
 ❎ Se implementaron buenas prácticas en la gestión del estado y en el manejo de la interacción con la API para mejorar la eficiencia y la experiencia de usuario.
+
+https://shopping-cart-with-react-andev.netlify.app
